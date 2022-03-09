@@ -1,0 +1,7 @@
+div {
+    width: 400px;
+    height: 400px;
+    background-image: url("13-elementy-html.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
